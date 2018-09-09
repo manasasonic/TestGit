@@ -18,6 +18,7 @@ public class SimpleCalculator {
 	
 	Student student1 = new Student("manasa", 123456789);
 	Student student2 = new Student("edavalli", 234568765);
+	Student student3 = new Student("edavalli", 234568765);
 	
 //	float, double	
 	System.out.println(dob);
@@ -26,6 +27,7 @@ public class SimpleCalculator {
 	
 	student1.printStudentInfo();
 	student2.printStudentInfo();
+	student3.printStudentInfo();
 	
 	}
 
