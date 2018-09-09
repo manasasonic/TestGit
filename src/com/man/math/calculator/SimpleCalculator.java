@@ -28,6 +28,7 @@ public class SimpleCalculator {
 	student1.printStudentInfo();
 	student2.printStudentInfo();
 	student3.printStudentInfo();
+	student3.printStudentInfo();
 	
 	}
 
